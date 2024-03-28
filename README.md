@@ -8,6 +8,7 @@ Help to grow the list.
 **extend,**
 **pull request!**
 
+* [American University of Ras Al Khaimah (Coding Club)](https://github.com/AURAK-Coding-Club)
 * [Biola University](https://github.com/biola)
 * [Boston College (Libraries)](https://github.com/BCLibraries)
 * [Boston University (Information Services & Technology)](https://github.com/bu-ist)
